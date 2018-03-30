@@ -1,0 +1,9 @@
+/* 公共样式 */
+@import "variable";
+
+html{
+    font-size: $font-size-root;
+}
+body{
+    background:$color-bg-body;
+}

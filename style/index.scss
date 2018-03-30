@@ -1,0 +1,15 @@
+/* index页样式 */
+@import "variable";
+
+body{
+    width: $width-window;
+    height: $height-window;
+    background: url('../image/bg.png') no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+p {
+    color: $color-p;
+    font-size: $font-size-p;
+}
